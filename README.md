@@ -24,6 +24,3 @@ The goal of this project is to apply **advanced text preprocessing techniques** 
 - Information Retrieval
 - Fake News Detection
 - Recommendation Systems
-
-## 📜 License
-This project is licensed under the MIT License.
